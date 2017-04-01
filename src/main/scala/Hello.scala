@@ -5,7 +5,7 @@ object Hello {
   def main(args: Array[String]): Unit = {
     val a=10
     val b=12
-    val c = a*b
+    val c = a*b+10
     println(c)
   }
 
