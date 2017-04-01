@@ -20,6 +20,8 @@ object Hello {
     val output=data.map(l=>l+1)
     output.foreach(println)
 
+    val textdata = sc.textFile("")
+
   }
 
 }
