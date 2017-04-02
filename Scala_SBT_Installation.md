@@ -1,4 +1,4 @@
-# scala_basics
+# scala_basics and Installation
 This is my first intellij scala SBT project
 
 Prerequisite Java 1.8 needed to be installed
